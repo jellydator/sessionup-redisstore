@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/gomodule/redigo/redis"
-	"github.com/swithek/sessionup"
+	"github.com/jellydator/sessionup"
 )
 
 // RedisStore is a Redis implementation of sessionup.Store.

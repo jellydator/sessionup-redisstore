@@ -1,13 +1,13 @@
 # sessionup-redisstore
 
-[![Build status](https://travis-ci.org/swithek/sessionup-redisstore.svg?branch=master)](https://travis-ci.org/swithek/sessionup-redisstore)
-[![GoDoc](https://godoc.org/github.com/swithek/sessionup-redisstore?status.png)](https://godoc.org/github.com/swithek/sessionup-redisstore)
+[![Build status](https://travis-ci.org/jellydator/sessionup-redisstore.svg?branch=master)](https://travis-ci.org/jellydator/sessionup-redisstore)
+[![GoDoc](https://godoc.org/github.com/jellydator/sessionup-redisstore?status.png)](https://godoc.org/github.com/jellydator/sessionup-redisstore)
 
-Redis session store implementation for [sessionup](https://github.com/swithek/sessionup)
+Redis session store implementation for [sessionup](https://github.com/jellydator/sessionup)
 
 ## Installation
 ```
-go get github.com/swithek/sessionup-redisstore
+go get github.com/jellydator/sessionup-redisstore
 ```
 
 ## Usage
